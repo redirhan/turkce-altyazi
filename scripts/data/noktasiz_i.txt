@@ -1,0 +1,19 @@
+# Büyük "I" ile başlayıp NOKTASIZ kalması gereken sözcük başları (küçük harfle, ı ile).
+# "Işık", "Irak", "Isparta" İ'ye çevrilmez. Kök başı yeterli: "ışı" -> ışık, ışıl, ışın...
+ılı
+ılg
+ıra
+ırak
+ırk
+ırm
+ısı
+ısl
+ısm
+ısp
+ısr
+ıss
+ışı
+ızg
+ıhl
+ığd
+ıtr

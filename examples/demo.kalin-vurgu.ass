@@ -1,0 +1,28 @@
+[Script Info]
+; turkce-altyazi (Redirhan Studio, MIT) ile üretildi
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: kalin-vurgu,Montserrat Black,114,&H00FFFFFF,&H00FFFFFF,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,7.0,5.0,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.48,kalin-vurgu,,0,0,0,,{\an5\pos(540,1225)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0AD6FF&}İSTANBUL'DA{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.30,0:00:01.48,kalin-vurgu,,0,0,0,,{\an5\pos(540,1348)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}SABAH YEDİDE
+Dialogue: 0,0:00:01.48,0:00:02.70,kalin-vurgu,,0,0,0,,{\an5\pos(540,1286)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}YOLA ÇIKTIK.
+Dialogue: 0,0:00:02.87,0:00:03.59,kalin-vurgu,,0,0,0,,{\an5\pos(540,1286)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}ŞEY, İLK DURAK
+Dialogue: 0,0:00:03.59,0:00:05.15,kalin-vurgu,,0,0,0,,{\an5\pos(540,1225)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0AD6FF&}KADIKÖY{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.59,0:00:05.15,kalin-vurgu,,0,0,0,,{\an5\pos(540,1348)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}İSKELESİYDİ.
+Dialogue: 0,0:00:06.18,0:00:07.06,kalin-vurgu,,0,0,0,,{\an5\pos(540,1225)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}SİMİT
+Dialogue: 0,0:00:06.18,0:00:07.06,kalin-vurgu,,0,0,0,,{\an5\pos(540,1348)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}YÜZDE ELLİ
+Dialogue: 0,0:00:07.06,0:00:08.34,kalin-vurgu,,0,0,0,,{\an5\pos(540,1286)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}İNDİRİMLİYDİ.
+Dialogue: 0,0:00:08.51,0:00:09.58,kalin-vurgu,,0,0,0,,{\an5\pos(540,1225)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}SONRA
+Dialogue: 0,0:00:08.51,0:00:09.58,kalin-vurgu,,0,0,0,,{\an5\pos(540,1348)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0AD6FF&}İZMİR'E{\c&HFFFFFF&} UÇTUK,
+Dialogue: 0,0:00:09.58,0:00:11.15,kalin-vurgu,,0,0,0,,{\an5\pos(540,1225)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}IŞIKLAR
+Dialogue: 0,0:00:09.58,0:00:11.15,kalin-vurgu,,0,0,0,,{\an5\pos(540,1348)\blur0.6\fscx88\fscy88\t(0,90,\fscx100\fscy100)}YANIYORDU.

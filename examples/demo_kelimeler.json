@@ -1,0 +1,104 @@
+{
+ "source": "demo.mp4",
+ "engine": "whisper.cpp",
+ "model": "ggml-large-v3-turbo-q5_0.bin",
+ "language": "tr",
+ "duration": 11.65,
+ "words": [
+  {
+   "w": "İstanbul'da",
+   "start": 0.3,
+   "end": 0.764
+  },
+  {
+   "w": "sabah",
+   "start": 0.764,
+   "end": 1.097
+  },
+  {
+   "w": "yedide",
+   "start": 1.097,
+   "end": 1.482
+  },
+  {
+   "w": "yola",
+   "start": 1.482,
+   "end": 1.736
+  },
+  {
+   "w": "çıktık.",
+   "start": 1.736,
+   "end": 2.55
+  },
+  {
+   "w": "Şeyh,",
+   "start": 2.87,
+   "end": 3.06
+  },
+  {
+   "w": "ilk",
+   "start": 3.06,
+   "end": 3.25
+  },
+  {
+   "w": "durak",
+   "start": 3.25,
+   "end": 3.59
+  },
+  {
+   "w": "Kadıköy",
+   "start": 3.59,
+   "end": 4.11
+  },
+  {
+   "w": "iskelesiydi.",
+   "start": 4.11,
+   "end": 5.0
+  },
+  {
+   "w": "Simit",
+   "start": 6.18,
+   "end": 6.495
+  },
+  {
+   "w": "yüzde",
+   "start": 6.495,
+   "end": 6.873
+  },
+  {
+   "w": "elli",
+   "start": 6.873,
+   "end": 7.062
+  },
+  {
+   "w": "indirimliydi.",
+   "start": 7.062,
+   "end": 8.19
+  },
+  {
+   "w": "Sonra",
+   "start": 8.51,
+   "end": 8.6
+  },
+  {
+   "w": "İzmir'e",
+   "start": 8.6,
+   "end": 9.09
+  },
+  {
+   "w": "uçtuk,",
+   "start": 9.09,
+   "end": 9.58
+  },
+  {
+   "w": "ışıklar",
+   "start": 9.58,
+   "end": 10.07
+  },
+  {
+   "w": "yanıyordu.",
+   "start": 10.07,
+   "end": 11.0
+  }
+ ]
+}

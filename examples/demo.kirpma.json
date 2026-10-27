@@ -1,0 +1,18 @@
+[
+ {
+  "tur": "dolgu",
+  "start": 2.87,
+  "end": 3.06,
+  "metin": "Şeyh,",
+  "neden": "söylem dolgusu (ayrık) — ASR 'şey'i 'Şeyh' yazmış olabilir",
+  "guven": "orta"
+ },
+ {
+  "tur": "duraklama",
+  "start": 5.15,
+  "end": 6.03,
+  "metin": "1.18 s boşluk",
+  "neden": "0.60 s'den uzun duraklama -> 0.30 s",
+  "guven": "yuksek"
+ }
+]

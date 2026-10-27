@@ -1,0 +1,10 @@
+[
+ {
+  "tur": "yazim",
+  "zaman": 2.87,
+  "eski": "Şeyh,",
+  "yeni": "Şey,",
+  "mod": "oneri-uygulandi",
+  "not": "cümle başındaki 'Şeyh' çoğu zaman dolgu 'şey' (ASR hatası)"
+ }
+]

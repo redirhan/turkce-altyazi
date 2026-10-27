@@ -1,0 +1,28 @@
+# ASR (whisper) Türkçe yazım düzeltmeleri. Sütunlar TAB ile: desen	yerine	mod	not
+# mod: oto = otomatik uygulanır · oneri = yalnız raporda öneri olarak gösterilir
+# desen düz metin ise tam sözcük eşleşir; 're:' ile başlarsa düzenli ifade (Python re).
+herşey	her şey	oto	TDK: ayrı yazılır
+Herşey	Her şey	oto	TDK: ayrı yazılır
+birşey	bir şey	oto	TDK: ayrı yazılır
+Birşey	Bir şey	oto	TDK: ayrı yazılır
+hiçbirşey	hiçbir şey	oto	TDK
+herkez	herkes	oto	sık yazım hatası
+yanlız	yalnız	oto	sık yazım hatası
+yalnış	yanlış	oto	sık yazım hatası
+malesef	maalesef	oto	sık yazım hatası
+Malesef	Maalesef	oto	sık yazım hatası
+re:\b([Tt])abi ki\b	\1abii ki	oto	'tabii' (elbette) çift i
+re:\b([Tt])abiki\b	\1abii ki	oto	'tabii ki' ayrı ve çift i
+orjinal	orijinal	oto	sık yazım hatası
+şöför	şoför	oto	sık yazım hatası
+eşortman	eşofman	oto	sık yazım hatası
+laboratuar	laboratuvar	oto	TDK
+sarmısak	sarımsak	oto	TDK
+yada	ya da	oto	bağlaç ayrı yazılır
+Yada	Ya da	oto	bağlaç ayrı yazılır
+re:\bher ?gün\b	her gün	oto	ayrı yazılır
+re:(?i)\bin[sş]a ?all?ah\b	inşallah	oto	yaygın yazılış
+re:^Şeyh(?=[ ,])	Şey	oneri	cümle başındaki 'Şeyh' çoğu zaman dolgu 'şey' (ASR hatası)
+re:(?<=[.!?] )Şeyh(?=[ ,])	Şey	oneri	cümle başındaki 'Şeyh' çoğu zaman dolgu 'şey' (ASR hatası)
+re:\bbende (geldim|gittim|istiyorum|düşünüyorum|biliyorum)\b	ben de \1	oneri	'de' bağlacı ayrı yazılır
+re:\bsende (gel|git|bil)\b	sen de \1	oneri	'de' bağlacı ayrı yazılır

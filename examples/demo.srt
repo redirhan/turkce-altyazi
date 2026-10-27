@@ -1,0 +1,22 @@
+1
+00:00:00,300 --> 00:00:02,700
+İstanbul'da sabah
+yedide yola çıktık.
+
+2
+00:00:02,870 --> 00:00:05,150
+Şey, ilk durak
+Kadıköy iskelesiydi.
+
+3
+00:00:06,180 --> 00:00:08,340
+Simit yüzde elli
+indirimliydi.
+
+4
+00:00:08,510 --> 00:00:09,580
+Sonra İzmir'e uçtuk,
+
+5
+00:00:09,580 --> 00:00:11,150
+ışıklar yanıyordu.
