@@ -3,7 +3,7 @@
 Türkçe konuşmalı video ya da ses → kelime zamanlı altyazı: **SRT + stilli ASS + altyazısı yakılmış MP4**.
 Doğru Türkçe büyük harfle: **İSTANBUL**, ISTANBUL değil.
 
-Redirhan Studio tarafından hazırlandı. Ücretsiz, MIT lisanslı. Tamamen yerel çalışır: yayın yok,
+Redirhan Labs tarafından hazırlandı. Ücretsiz, MIT lisanslı. Tamamen yerel çalışır: yayın yok,
 hesap yok, ücretli API yok.
 
 ![önce / sonra](examples/once_sonra.jpg)
@@ -120,5 +120,5 @@ yapan araçlar) Türkçe bilmeyen `str.upper()` ile büyütülmesini canlandır�
 
 ## Lisans
 
-MIT, Redirhan Studio. Fontlar: Montserrat (SIL OFL 1.1, `scripts/fonts/OFL-Montserrat.txt`).
+MIT, Redirhan Labs. Fontlar: Montserrat (SIL OFL 1.1, `scripts/fonts/OFL-Montserrat.txt`).
 Demo anlatımı EMA-TTS (Apache-2.0) ile yerelde üretildi. Ayrıntı: `CHANGELOG.md`.

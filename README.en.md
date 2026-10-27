@@ -3,7 +3,7 @@
 Turkish speech video or audio → word-timed captions: **SRT + styled ASS + burned-in MP4**, with
 correct Turkish casing: **İSTANBUL**, not ISTANBUL.
 
-Made by Redirhan Studio. Free, MIT licensed. Runs fully locally: no publishing, no accounts, no paid APIs.
+Made by Redirhan Labs. Free, MIT licensed. Runs fully locally: no publishing, no accounts, no paid APIs.
 
 ## Why
 
@@ -74,4 +74,4 @@ needs an ffmpeg built with libass; our dev machine's ffmpeg has none, so the exa
 
 ## License
 
-MIT, Redirhan Studio. Fonts: Montserrat (SIL OFL 1.1). Demo narration generated locally with EMA-TTS (Apache-2.0).
+MIT, Redirhan Labs. Fonts: Montserrat (SIL OFL 1.1). Demo narration generated locally with EMA-TTS (Apache-2.0).

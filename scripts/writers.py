@@ -57,7 +57,7 @@ def to_ass(cells: List[Dict], style: Dict, W: int, H: int, y_frac: Optional[floa
     back = _bgr("#000000", style.get("shadow_alpha", 0.5))
     head = [
         "[Script Info]",
-        "; turkce-altyazi (Redirhan Studio, MIT) ile üretildi",
+        "; turkce-altyazi (Redirhan Labs, MIT) ile üretildi",
         "ScriptType: v4.00+",
         f"PlayResX: {W}",
         f"PlayResY: {H}",
